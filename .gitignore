@@ -1,1 +1,6 @@
-node_modules
+# Ignore all files
+*
+
+# Except for these
+!.gitignore
+!dist/stackblur.min.js
